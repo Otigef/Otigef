@@ -26,7 +26,6 @@ Passionate about building meaningful software solutions and continuously growing
 
 ## 🛠️ **Tech Stack**
 ### **Languages**
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
