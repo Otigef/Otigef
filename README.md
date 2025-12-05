@@ -50,8 +50,7 @@ Passionate about building meaningful software solutions and continuously growing
 ---
 
 ## 🌍 **Let’s Connect**
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here  
-- 📸 Instagram: https://www.instagram.com/your-instagram  
+- 💼 LinkedIn: https:https://www.linkedin.com/in/geoffrey-n-ouda-otieno-a79a296b/  
 - ✉️ Email: otigef@yahoo.com  
 - 🧭 Portfolio (coming soon…)
 
