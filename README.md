@@ -1,7 +1,7 @@
 ## Hi there 👋 Geoffrey N. Ouda Otieno
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG0G9o5t6TUrA/profile-displayphoto-crop_800_800/B4DZlUYDUYJAAI-/0/1758057215949?e=1766620800&v=beta&t=8DzX0b-a-7Fy9WEWcOecmjBRFHWuYQBX2cekAXuTwMI" width="180" class="glow" />
+  <img src="[https://media.licdn.com/dms/image/v2/D4D03AQG0G9o5t6TUrA/profile-displayphoto-crop_800_800/B4DZlUYDUYJAAI-/0/1758057215949?e=1766620800&v=beta&t=8DzX0b-a-7Fy9WEWcOecmjBRFHWuYQBX2cekAXuTwMI" width="180" class="glow](https://scontent-mba2-1.xx.fbcdn.net/v/t39.30808-6/593333510_846881528074923_8972598208798893538_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHrTgvfA5SBdeZHDSSW6AW_9riSblLij0D2uJJuUuKPQBAWuSmsAbEoflaQKKMGD0bl_bQfDU-09oD8tmk4Plqu&_nc_ohc=tgfAWQUk2sAQ7kNvwFWDyTa&_nc_oc=AdkP8Pm7ZE3oMdUecBdVu6rQIZSWZc2HwxKc8r-8pal9yfQ3J7j25YZGZt-lYOjIq1Y&_nc_zt=23&_nc_ht=scontent-mba2-1.xx&_nc_gid=r99T0zEwCSXMQM7F9vmDtw&oh=00_AfnQK6Xsdw8USWZpdfSPm9u8-rgGz7ql_RJRKuByM5y5rg&oe=6938DB90)" />
 </p>
 
 <p align="center">
