@@ -63,9 +63,7 @@ Passionate about building meaningful software solutions and continuously growing
 
 </p>
 
- 
-
-### **Frameworks & Tools**
+ ## 🚀 Frameworks & Tools
 
 <p align="left">
 
@@ -91,7 +89,19 @@ Passionate about building meaningful software solutions and continuously growing
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mo
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- OpenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <!-- Lindy -->
+  <img src="https://img.shields.io/badge/Lindy_AI-000000?style=for-the-badge&logo=zap&logoColor=white" />
+
+  <!-- OnSpace -->
+  <img src="https://img.shields.io/badge/OnSpace_AI-0061ff?style=for-the-badge&logo=cloud&logoColor=white" />
+
+</p>
+
 
 ---
 
