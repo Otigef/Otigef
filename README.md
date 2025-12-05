@@ -1,5 +1,9 @@
 ## Hi there 👋 Geoffrey N. Ouda Otieno
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=700&color=00F58C&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+(in+progress);AI+%26+Machine+Learning+Enthusiast;React+%7C+Node+%7C+Tailwind+Learner;Transforming+Ideas+Into+Code" />
+</p>
+
 
 ### 🚀 Aspiring Software Engineer | Web Developer | AI & Tech Enthusiast  
 Passionate about building meaningful software solutions and continuously growing in the world of technology.
