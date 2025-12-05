@@ -26,7 +26,33 @@ Passionate about building meaningful software solutions and continuously growing
 
 ## 🛠️ **Tech Stack**
 ### **Languages**
-- HTML • CSS • JavaScript • Python • SQL  
+## 🛠️ Skills
+
+<p align="left">
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Tableau -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+  <!-- PowerBI -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+
+  <!-- GitHub Actions -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</p>
+ 
 
 ### **Frameworks & Tools**
 - React (learning) • Node.js • Express  
