@@ -28,6 +28,8 @@ Passionate about building meaningful software solutions and continuously growing
 ### **Languages**
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 <p align="left">
 
   <!-- SQL -->
@@ -51,7 +53,17 @@ Passionate about building meaningful software solutions and continuously growing
   <!-- GitHub Actions -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
 
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
+
  
 
 ### **Frameworks & Tools**
