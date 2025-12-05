@@ -1,6 +1,11 @@
 ## Hi there 👋 Geoffrey N. Ouda Otieno
 
 <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG0G9o5t6TUrA/profile-displayphoto-crop_800_800/B4DZlUYDUYJAAI-/0/1758057215949?e=1766620800&v=beta&t=8DzX0b-a-7Fy9WEWcOecmjBRFHWuYQBX2cekAXuTwMI" alt="Profile" width="180" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 0, 139, 0.6);">
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=700&color=00008B&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+(in+progress);AI+%26+Machine+Learning+Enthusiast;React+%7C+Node+%7C+Tailwind+Learner;Transforming+Ideas+Into+Code" />
 </p>
 
