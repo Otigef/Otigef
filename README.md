@@ -1,12 +1,21 @@
 ## Hi there 👋 Geoffrey N. Ouda Otieno
 
+<style>
+.glow-round {
+  border-radius: 50%;
+  object-fit: cover;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 10px #00008B; }
+  50% { box-shadow: 0 0 25px #00008B; }
+  100% { box-shadow: 0 0 10px #00008B; }
+}
+</style>
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG0G9o5t6TUrA/profile-displayphoto-crop_800_800/B4DZlUYDUYJAAI-/0/1758057215949?e=1766620800&v=beta&t=8DzX0b-a-7Fy9WEWcOecmjBRFHWuYQBX2cekAXuTwMI" alt="Profile" width="180" style="
-    border-radius: 50%;
-    object-fit: cover;
-    box-shadow: 0 0 15px #00008B,
-                0 0 30px #00008B,
-                0 0 45px #00008B;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQG0G9o5t6TUrA/profile-displayphoto-crop_800_800/B4DZlUYDUYJAAI-/0/1758057215949?e=1766620800&v=beta&t=8DzX0b-a-7Fy9WEWcOecmjBRFHWuYQBX2cekAXuTwMI" width="180" class="glow-round" />
 </p>
 
 
