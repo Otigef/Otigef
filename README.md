@@ -10,7 +10,10 @@
 
 
 
-### 🚀 Aspiring Software Engineer | Web Developer | AI & Tech Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Web+Developer;AI+%26+Tech+Enthusiast" />
+</p>
+
 Passionate about building meaningful software solutions and continuously growing in the world of technology.
 
 ---
